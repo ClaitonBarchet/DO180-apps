@@ -1,0 +1,6 @@
+public class Nomedaclasse(){
+
+	public static voi main(String[]args)(
+
+	}
+}
